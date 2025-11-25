@@ -57,7 +57,7 @@ Note : if https :__ won’t work then type just http:___
 29. Click on Terminated (deleted)==> Now click on End lab
 
 for web after 18 direct go to 23
-
+aws-https://github.com/lohithak28/foraws.git
 
 
 
